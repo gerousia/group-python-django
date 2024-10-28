@@ -1,1 +1,1 @@
-# group-python-flask
+# group-python-django
