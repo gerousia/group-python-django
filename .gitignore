@@ -1,0 +1,5 @@
+# ignore ALL .md files
+*.md
+
+# ignore ALL files in python .venv directory
+.venv/
